@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MERN Stack
 - 📫 Reach me on Twitter 
 - ⚡ Fun fact: I hit the Gym
-- 
 
 <!---
 yashkumarsatish/yashkumarsatish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
