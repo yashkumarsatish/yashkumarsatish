@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashkumarsatish
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
-- 📫 Reach me on Twitter 
+- 📫 Reach me  https://x.com/yashkumarsatish
 - ⚡ Fun fact: I hit the Gym
 
 <!---
